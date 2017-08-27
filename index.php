@@ -31,7 +31,7 @@
 
 <body>
 
-<div class="col-12 wrapper">
+<div class="col-12 wrapper" >
 
 
 	<div class="col-12 containr">		
